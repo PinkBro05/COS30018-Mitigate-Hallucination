@@ -5,6 +5,7 @@ Description: fine-tuning techniques, etc. Impact on hallucination, how can this 
 ## Requirements
 
 Required libraries, datasets, etc.
+Library: Huggingface, PyTourch
 
 ## Usage
 
@@ -13,3 +14,6 @@ How to use the code.
 ## Results
 
 Results of the experiments.
+
+## Token - Pink
+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
